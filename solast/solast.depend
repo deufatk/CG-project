@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1707690699 source:c:\users\0911101847\documents\cg\solast\main.cpp
+	<GL/freeglut.h>
+	<cmath>
+	<vector>
+
+1426342528 c:\users\0911101847\documents\cg\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426342528 c:\users\0911101847\documents\cg\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426342528 c:\users\0911101847\documents\cg\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
